@@ -12,7 +12,7 @@ Sou uma estudante de Tecnologia da Informação.
 - Designer Grafico
 
 #### Contato:
-- <img src="o-email.png" alt="" style="height: 25px; margin-bottom: -10px;"> Email: CamillyS.Bertelini@gmail.com
+- Email: CamillyS.Bertelini@gmail.com
 
 #### Educação:
 - Cursando TI pela Proz <br>
