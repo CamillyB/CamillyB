@@ -5,17 +5,17 @@
 -->
 Sou uma estudante de Tecnologia da Informação.
 
-# Minhas áreas de interesse:
+##### Minhas áreas de interesse:
 -Arquitetura de sites <br>
--Programação de front-end
--Banco de dados SQL
+-Programação de front-end <br>
+-Banco de dados SQL <br>
 -Designer Grafico
 
-# Contato:
+##### Contato:
 -Email: CamillyS.Bertelini@gmail.com
 
-# Educação:
--Cursando TI pela Proz
+##### Educação:
+-Cursando TI pela Proz <br>
 -Sob mentoria de Erick Barbosa
 
 # Habilidades:
